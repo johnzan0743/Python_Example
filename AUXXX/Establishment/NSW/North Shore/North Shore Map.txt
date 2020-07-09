@@ -1,0 +1,11 @@
+Thread Title: North Shore Map
+Floor: #1
+Post Time: 13th February 2010, 06:59 PM
+Poster ID: someone or other
+Post Title: 
+ North Shore Map
+				
+Post Content: 
+[GMAPS]<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com.au/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp  ;q=http:%2F%2Fmaps.google.com.au%2Fmaps%2Fms%3Fie%  3DUTF8%26hl%3Den%26vps%3D13%26jsv%3D206b%26oe%3DUT  F8%26msa%3D0%26output%3Dnl%26msid%3D10030531123585  3879210.00047f37f3b1b5f77f6b6&amp;sll=-33.796179,151.190308&amp;sspn=0.133524,0.308647&am  p;ie=UTF8&amp;ll=-33.796179,151.190307&amp;spn=0.104374,0.097687&amp  ;output=embed"></iframe><br />[/GMAPS]
+
+
