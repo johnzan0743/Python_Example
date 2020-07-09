@@ -1,0 +1,11 @@
+Thread Title: Northern Suburbs Map
+Floor: #1
+Post Time: 13th February 2010, 07:01 PM
+Poster ID: someone or other
+Post Title: 
+ Northern Suburbs Map
+				
+Post Content: 
+[GMAPS]<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com.au/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp  ;q=http:%2F%2Fmaps.google.com.au%2Fmaps%2Fms%3Fie%  3DUTF8%26hl%3Den%26vps%3D13%26jsv%3D206b%26oe%3DUT  F8%26msa%3D0%26output%3Dnl%26msid%3D10030531123585  3879210.00047f3db36be2805bc5b&amp;sll=-33.76096,151.103691&amp;sspn=0.133579,0.308647&amp  ;ie=UTF8&amp;ll=-33.76096,151.103691&amp;spn=0.116547,0.03923&amp;o  utput=embed"></iframe><br />[/GMAPS]
+
+
