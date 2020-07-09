@@ -1,0 +1,11 @@
+Thread Title: St George Map
+Floor: #1
+Post Time: 13th February 2010, 11:27 PM
+Poster ID: someone or other
+Post Title: 
+ St George Map
+				
+Post Content: 
+[GMAPS]<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com.au/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp  ;q=http:%2F%2Fmaps.google.com.au%2Fmaps%2Fms%3Fie%  3DUTF8%26hl%3Den%26vps%3D8%26jsv%3D206b%26oe%3DUTF  8%26msa%3D0%26output%3Dnl%26msid%3D100305311235853  879210.00047f7a5bd3aa78eb085&amp;sll=-33.952474,151.100292&amp;sspn=0.06664,0.154324&amp  ;ie=UTF8&amp;ll=-33.952758,151.100292&amp;spn=0.021682,0.09462&amp;  output=embed"></iframe><br />[/GMAPS]
+
+
