@@ -28,15 +28,16 @@ sorted_list = sorted(a, key=sorter)
 [' '.join(k) for k in sorted([i.split() for i in a], key=lambda x:(x[3],x[2]))]
 
 
-list =[]
+list1 =[]
 for i in a:
     i = i.split(' ')
-    list.append(i)
-A = sorted(list, key=lambda x:(x[3], x[2]))
-list.clear()
+    list1.append(i)
+A = sorted(list1, key=lambda x:(x[3], x[2]))
+
+list1.clear()
 for i in A:
     temp = (' ').join(i)
-    list.append(temp)
+    list1.append(temp)
     
-print(list)
+print(list1)
     

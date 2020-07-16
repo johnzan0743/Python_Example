@@ -28,11 +28,11 @@ class Solution():
         a_list = list(filter(None,a_list))
         return a_list
 
-init = Solution()
+A = Solution()
 
 test_list =  [1, 1, 1, 3, 1, 4, 4, 1]
-A = init.unique_list(test_list)
-B = init.unique_enumerate(test_list)
+test1 = A.unique_list(test_list)
+test2 = A.unique_enumerate(test_list)
         
 
 
