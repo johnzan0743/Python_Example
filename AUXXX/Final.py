@@ -27,8 +27,8 @@ from random import randint
 
 session = requests.Session()
 
-username = 'johnzan'
-password = '070743'
+username = 'xxxxxx'
+password = 'xxxxxx'
 url = 'https://auxxxreviews.com/forum/'
 
 with open('/Users/yuanzhuang/Downloads/final_link.txt', 'r') as f:
