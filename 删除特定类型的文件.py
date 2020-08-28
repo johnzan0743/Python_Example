@@ -1,6 +1,6 @@
 import os
 import glob
-directory = '/Users/yuanzhuang/Downloads/--skip-sub/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/'
+directory = '/Users/yuanzhuang/Downloads/Udemy/the-complete-web-development-bootcamp/'
 
 folder_list = glob.glob(directory+'*')
 # file_list = os.walk(directory)
