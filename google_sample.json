@@ -1,0 +1,48 @@
+{
+  "area": { "code": "US-CA", "geonameid": 5332921, "name": "California" },
+  "asn": { "number": 15169, "organisation": "GOOGLE" },
+  "city": {
+    "geonameid": 5375480,
+    "name": "Mountain View",
+    "population": 80435
+  },
+  "continent": { "code": "NA", "geonameid": 6255149, "name": "North America" },
+  "country": {
+    "area_size": "9629091.00 sq. km",
+    "capital": "Washington",
+    "code": "US",
+    "flag": {
+      "emoji": "\ud83c\uddfa\ud83c\uddf8",
+      "file": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_United_States.svg",
+      "unicode": "U+1F1FA U+1F1F8"
+    },
+    "geonameid": 6252001,
+    "is_in_eu": false,
+    "languages": {
+      "en": "English",
+      "es": "Spanish; Castilian",
+      "fr": "French",
+      "haw": "Hawaiian"
+    },
+    "name": "United States",
+    "phone_code": "1",
+    "population": 327167434
+  },
+  "currency": { "code": "USD", "name": "US Dollar" },
+  "ip": "142.250.66.195",
+  "location": { "latitude": 37.405991, "longitude": -122.078514 },
+  "postcode": "94043",
+  "security": {
+    "is_crawler": false,
+    "is_proxy": false,
+    "is_thread": false,
+    "is_tor": false
+  },
+  "status": "success",
+  "time": {
+    "gtm_offset": -25200,
+    "time": "2020-09-06 16:00:18 -0700",
+    "timezone": "America/Los_Angeles"
+  },
+  "type": "IPv4"
+}

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <ip>142.250.66.195</ip>
+    <type>IPv4</type>
+    <location>
+        <latitude>37.405991</latitude>
+        <longitude>-122.078514</longitude>
+    </location>
+    <postcode>94043</postcode>
+    <area>
+        <code>US-CA</code>
+        <geonameid>5332921</geonameid>
+        <name>California</name>
+    </area>
+    <asn>
+        <number>15169</number>
+        <organisation>GOOGLE</organisation>
+    </asn>
+    <city>
+        <geonameid>5375480</geonameid>
+        <name>Mountain View</name>
+        <population>80435</population>
+    </city>
+    <continent>
+        <geonameid>6255149</geonameid>
+        <name>North America</name>
+        <code>NA</code>
+    </continent>
+    <country>
+        <geonameid>6252001</geonameid>
+        <name>United States</name>
+        <code>US</code>
+        <capital>Washington</capital>
+        <area_size>9629091.00 sq. km</area_size>
+        <population>327167434</population>
+        <phone_code>1</phone_code>
+        <is_in_eu>False</is_in_eu>
+        <languages>
+            <en>English</en>
+            <es>Spanish; Castilian</es>
+            <fr>French</fr>
+            <haw>Hawaiian</haw>
+        </languages>
+        <flag>
+            <file>http://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_United_States.svg</file>
+            <emoji>🇺🇸</emoji>
+            <unicode>U+1F1FA U+1F1F8</unicode>
+        </flag>
+    </country>
+    <currency>
+        <code>USD</code>
+        <name>US Dollar</name>
+    </currency>
+    <security>
+        <is_tor>False</is_tor>
+        <is_proxy>False</is_proxy>
+        <is_crawler>False</is_crawler>
+        <is_thread>False</is_thread>
+    </security>
+    <time>
+        <timezone>America/Los_Angeles</timezone>
+        <time>2020-09-06 15:54:22 -0700</time>
+        <gtm_offset>-25200</gtm_offset>
+    </time>
+    <status>success</status>
+</root>
